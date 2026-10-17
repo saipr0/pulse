@@ -1,6 +1,7 @@
 # Pulse
 
-https://github.com/saipr0/pulse/raw/main/docs/pulse.mp4
+https://github.com/user-attachments/assets/46a115dc-a9e9-4764-a0e3-95701bb7dd6e
+
 
 | live | workout | HRV check | alert on my wrist |
 | :---: | :---: | :---: | :---: |
